@@ -43,3 +43,4 @@ node_modules/
 .dist-info/
 
 *.csv
+*.txt
