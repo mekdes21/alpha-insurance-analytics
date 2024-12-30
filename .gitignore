@@ -44,6 +44,3 @@ node_modules/
 
 *.csv
 *.txt
-.dvc/cache/
-*.dvc/cache/
-
