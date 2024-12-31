@@ -26,3 +26,21 @@ This project uses **DVC** (Data Version Control) to manage large datasets and mo
 ### Key Concepts:
 - insurance_data are tracked by DVC rather than Git to handle large datasets.
 - DVC stores the metadata and versioning of the data, while actual data files are stored in remote storage (e.g., AWS S3, Google Drive).
+
+A/B Hypothesis Testing with SumInsured
+
+Hypothesis Testing Goals:
+
+Assess risk and profitability differences using SumInsured.
+Metrics:
+
+KPI: SumInsured.
+Results Summary:
+
+Provinces and zip codes show significant differences in risk.
+Gender and profit margins do not show significant differences.
+Business Impact:
+
+Focus marketing strategies on high-risk provinces.
+Optimize risk management policies in high-risk zip codes.
+Gender-specific policies may not be necessary.
